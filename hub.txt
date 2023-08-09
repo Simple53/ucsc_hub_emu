@@ -1,0 +1,4 @@
+hub ucsc_hub_emu
+shortLabel emu Hub
+longLabel Track Hub for Emu
+genomesFile Emu.R3.wz.rc.fa
