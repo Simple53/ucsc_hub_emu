@@ -1,0 +1,10 @@
+track H3K4me3
+bigDataUrl my_tracks/Emu_F_L_B_H3K27ac_Rep01~Emu_F_L_B_IgG_Rep01.RPKM.q1.bw
+shortLabel Emu FLB H3K27ac
+longLabel Emu FLB H3K27ac rep01
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:32:11
+priority 1
+color 250, 174, 65

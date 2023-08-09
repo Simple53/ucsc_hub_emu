@@ -1,0 +1,2 @@
+genome emur3
+trackDb my_tracks/trackDb.txt
